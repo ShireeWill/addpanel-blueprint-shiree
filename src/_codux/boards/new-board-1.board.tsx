@@ -5,18 +5,17 @@ import { Button, Intent, TagInput, TagProps } from "@blueprintjs/core";
 export default createBoard({
     name: 'Tag input',
     Board: () => {
-        const VALUES = ["George", "Fiz", <strong>Lisa</strong>];
+         const DEFAULT_VALUES = ["George", "Fiz", "Lisa"];
 
-        const [values, setValues] = useState<React.ReactNode[]>(VALUES);
+        const [values, setValues] = useState<React.ReactNode[]>(DEFAULT_VALUES);
 
         const handleChange = (newValues: React.ReactNode[]) => {
             setValues(newValues);
         };
 
         const handleClear = useCallback(() => {
-            handleChange(values.length > 0 ? [] : VALUES)
+            handleChange(values.length > 0 ? [] : DEFAULT_VALUES)
         }, []);
-
 
         const clearButton = (
             <Button

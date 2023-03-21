@@ -1,8 +1,8 @@
 import { createBoard } from '@wixc3/react-board';
-import { Alignment, Checkbox, H5, Label } from '@blueprintjs/core';
+import { Alignment, H5, Label, Switch } from '@blueprintjs/core';
 
 export default createBoard({
-    name: 'Checkbox',
+    name: 'Switch',
     Board: () => {
 
         const checkboxOptions: { name: string, isChosen?: boolean }[] = [
@@ -14,7 +14,7 @@ export default createBoard({
         return (
             <div>
                 <Label>Assign responsibility</Label>
-                {checkboxOptions.map(option => <Checkbox label={option.name} checked={option.isChosen} />)}
+                {checkboxOptions.map(option => <Switch label={option.name} checked={option.isChosen} />)}
             </div>
         )
     }
