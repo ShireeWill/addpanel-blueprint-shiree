@@ -2,7 +2,7 @@ import { createBoard } from '@wixc3/react-board';
 import { Button } from '@blueprintjs/core';
 
 export default createBoard({
-    name: 'Button/large/Icon',
+    name: 'Button 1',
     Board: () => (
         <div>
             <Button
