@@ -24,7 +24,7 @@ export default createBoard({
                 onClick={handleClear}
             />
         );
-
+x``
         return <TagInput
             fill={true}
             leftIcon="user"
