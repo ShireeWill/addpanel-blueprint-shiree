@@ -1,5 +1,5 @@
 import { createBoard } from '@wixc3/react-board';
-import React from 'react';
+import React, { useState,useCallback } from 'react';
 import {
     AnchorButton,
     Button,
@@ -15,8 +15,8 @@ import { Tooltip2 } from "@blueprintjs/popover2";
 export default createBoard({
     name: 'Dialogs',
     Board: () => {
-        const [isOpen, setIsOpen] = React.useState(false);
-        const handleButtonClick = React.useCallback(() => setIsOpen(!isOpen), []);
+        const [isOpen, setIsOpen] = useState(false);
+        const handleButtonClick = useCallback(() => setIsOpen(!isOpen), []);
         const footerActions = (
         <>
             <Tooltip2 content="This button is hooked up to close the dialog.">
