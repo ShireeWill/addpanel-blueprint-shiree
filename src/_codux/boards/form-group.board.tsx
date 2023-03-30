@@ -1,5 +1,4 @@
 import { createBoard } from '@wixc3/react-board';
-import React, { useState } from 'react';
 import { FormGroup, H5, InputGroup, Intent, Switch } from "@blueprintjs/core";
 
 export default createBoard({
