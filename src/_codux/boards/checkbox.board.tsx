@@ -14,7 +14,7 @@ export default createBoard({
         return (
             <div>
                 <Label>Assign responsibility</Label>
-                {checkboxOptions.map(option => <Checkbox label={option.name} checked={option.isChosen} />)}
+                {checkboxOptions.map(option => <Checkbox label={option.name} key={option.name} checked={option.isChosen} />)}
             </div>
         )
     }
