@@ -1,0 +1,32 @@
+<svg width="252" height="127" viewBox="0 0 252 127" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="252" height="127" fill="#F7F8F9"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0.02em"><tspan x="16" y="28.7852">Assign responsibility</tspan></text>
+<g filter="url(#filter0_d_1657_18050)">
+<g clip-path="url(#clip0_1657_18050)">
+<rect x="16" y="47" width="16" height="16" rx="3" fill="#2D72D2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.9999 52C27.7199 52 27.4699 52.11 27.2899 52.29L22.9999 56.59L20.7099 54.29C20.5216 54.1017 20.2662 53.9959 19.9999 53.9959C19.7336 53.9959 19.4782 54.1017 19.2899 54.29C19.1016 54.4783 18.9958 54.7337 18.9958 55C18.9958 55.2663 19.1016 55.5217 19.2899 55.71L22.2899 58.71C22.4699 58.89 22.7199 59 22.9999 59C23.2799 59 23.5299 58.89 23.7099 58.71L28.7099 53.71C28.8495 53.5696 28.9444 53.391 28.9826 53.1967C29.0208 53.0025 29.0007 52.8012 28.9248 52.6184C28.8489 52.4355 28.7206 52.2792 28.556 52.1692C28.3914 52.0592 28.1979 52.0003 27.9999 52V52Z" fill="white"/>
+</g>
+<rect x="16.5" y="47.5" width="15" height="15" rx="2.5" stroke="#111418" stroke-opacity="0.15"/>
+</g>
+<text fill="#1C2127" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="40" y="59.7852">Giliad Gray</tspan></text>
+<rect x="16.5" y="71.5" width="15" height="15" rx="2.5" fill="white"/>
+<rect x="16.5" y="71.5" width="15" height="15" rx="2.5" stroke="#738091"/>
+<text fill="#1C2127" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="40" y="83.7852">Jason Killian</tspan></text>
+<rect x="16" y="95" width="16" height="16" rx="3" fill="#C5CBD3" fill-opacity="0.5"/>
+<text fill="#111418" fill-opacity="0.3" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="40" y="107.785">Antoine Llorca</tspan></text>
+<defs>
+<filter id="filter0_d_1657_18050" x="14" y="46" width="20" height="20" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1657_18050"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1657_18050" result="shape"/>
+</filter>
+<clipPath id="clip0_1657_18050">
+<rect x="16" y="47" width="16" height="16" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>
