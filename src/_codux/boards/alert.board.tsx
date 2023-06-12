@@ -1,7 +1,8 @@
-
 import { createBoard } from '@wixc3/react-board';
 import React, { useState,useCallback } from 'react';
 import { Alert, Button, H5, Intent, Toaster, ToasterInstance } from "@blueprintjs/core";
+// board cover
+import cover from '../../../../assets/card/card.svg';
 
 export default createBoard({
     name: 'Alert',
