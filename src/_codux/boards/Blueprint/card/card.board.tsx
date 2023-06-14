@@ -1,5 +1,7 @@
 import { createBoard } from '@wixc3/react-board';
 import { Card, H5, Button } from '@blueprintjs/core';
+// board cover
+import cover from '../../../../assets/card/card.svg';
 
 export default createBoard({
     name: 'Card',
@@ -14,4 +16,6 @@ export default createBoard({
             </p>
             <Button text="Explore products"/>
         </Card>
+            tags: ['card'],
+            cover,
 });
