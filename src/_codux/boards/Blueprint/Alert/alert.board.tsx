@@ -29,7 +29,6 @@ export default createBoard({
             </div>
         );
     },
-    environmentProps: {
-        canvasHeight: 89
-    }
+    tags: ['alert', 'error'],
+    cover,
 });
