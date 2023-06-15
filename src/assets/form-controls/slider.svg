@@ -9,15 +9,15 @@
 <rect x="85" y="16" width="16" height="16" rx="3" fill="white"/>
 </g>
 <g filter="url(#filter1_ddd_1657_18159)">
-<rect x="85" y="37.9646" width="16" height="12" rx="3" fill="#2F343C"/>
+<rect x="80.5" y="37.9646" width="25" height="12" rx="3" fill="#2F343C"/>
 </g>
-<mask id="path-10-outside-1_1657_18159" maskUnits="userSpaceOnUse" x="83" y="36" width="20" height="16" fill="black">
-<rect fill="white" x="83" y="36" width="20" height="16"/>
-<path d="M84 40C84 38.3431 85.3431 37 87 37H99C100.657 37 102 38.3431 102 40V48C102 49.6569 100.657 51 99 51H87C85.3431 51 84 49.6569 84 48V40Z"/>
+<mask id="path-10-outside-1_1657_18159" maskUnits="userSpaceOnUse" x="78.5" y="36" width="29" height="16" fill="black">
+<rect fill="white" x="78.5" y="36" width="29" height="16"/>
+<path d="M79.5 40C79.5 38.3431 80.8431 37 82.5 37H103.5C105.157 37 106.5 38.3431 106.5 40V48C106.5 49.6569 105.157 51 103.5 51H82.5C80.8431 51 79.5 49.6569 79.5 48V40Z"/>
 </mask>
-<path d="M84 40C84 38.3431 85.3431 37 87 37H99C100.657 37 102 38.3431 102 40V48C102 49.6569 100.657 51 99 51H87C85.3431 51 84 49.6569 84 48V40Z" fill="#2F343C"/>
-<path d="M87 38H99V36H87V38ZM101 40V48H103V40H101ZM99 50H87V52H99V50ZM85 48V40H83V48H85ZM87 50C85.8954 50 85 49.1046 85 48H83C83 50.2091 84.7909 52 87 52V50ZM101 48C101 49.1046 100.105 50 99 50V52C101.209 52 103 50.2091 103 48H101ZM99 38C100.105 38 101 38.8954 101 40H103C103 37.7909 101.209 36 99 36V38ZM87 36C84.7909 36 83 37.7909 83 40H85C85 38.8954 85.8954 38 87 38V36Z" fill="#111418" fill-opacity="0.1" mask="url(#path-10-outside-1_1657_18159)"/>
-<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="86.25" y="48.1016">00</tspan></text>
+<path d="M79.5 40C79.5 38.3431 80.8431 37 82.5 37H103.5C105.157 37 106.5 38.3431 106.5 40V48C106.5 49.6569 105.157 51 103.5 51H82.5C80.8431 51 79.5 49.6569 79.5 48V40Z" fill="#2F343C"/>
+<path d="M82.5 38H103.5V36H82.5V38ZM105.5 40V48H107.5V40H105.5ZM103.5 50H82.5V52H103.5V50ZM80.5 48V40H78.5V48H80.5ZM82.5 50C81.3954 50 80.5 49.1046 80.5 48H78.5C78.5 50.2091 80.2909 52 82.5 52V50ZM105.5 48C105.5 49.1046 104.605 50 103.5 50V52C105.709 52 107.5 50.2091 107.5 48H105.5ZM103.5 38C104.605 38 105.5 38.8954 105.5 40H107.5C107.5 37.7909 105.709 36 103.5 36V38ZM82.5 36C80.2909 36 78.5 37.7909 78.5 40H80.5C80.5 38.8954 81.3954 38 82.5 38V36Z" fill="#111418" fill-opacity="0.1" mask="url(#path-10-outside-1_1657_18159)"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="81.8555" y="48.1016">40%</tspan></text>
 <defs>
 <filter id="filter0_ddd_1657_18159" x="84" y="15" width="18" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -39,7 +39,7 @@
 <feBlend mode="normal" in2="effect2_dropShadow_1657_18159" result="effect3_dropShadow_1657_18159"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow_1657_18159" result="shape"/>
 </filter>
-<filter id="filter1_ddd_1657_18159" x="61" y="21.9646" width="64" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_ddd_1657_18159" x="56.5" y="21.9646" width="73" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1657_18159"/>

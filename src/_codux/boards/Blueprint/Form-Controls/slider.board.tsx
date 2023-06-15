@@ -1,6 +1,8 @@
 import { createBoard } from '@wixc3/react-board';
 import React, { useState } from 'react';
 import { H5, Slider, Switch } from '@blueprintjs/core';
+// board cover
+import cover from '../../../../assets/form-controls/slider.svg';
 
 export default createBoard({
     name: 'Slider',
@@ -23,4 +25,6 @@ export default createBoard({
             </div>
         );
     },
+    tags: ['slider','form','controls'],
+    cover,
 });
