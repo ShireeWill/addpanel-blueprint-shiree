@@ -1,6 +1,9 @@
 import { createBoard } from '@wixc3/react-board';
 import { Alignment, H5, Label, Switch } from '@blueprintjs/core';
 
+// board cover
+import cover from '../../../../assets/form-controls/switch.svg';
+
 export default createBoard({
     name: 'Switch',
     Board: () => {
