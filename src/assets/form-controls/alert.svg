@@ -1,0 +1,46 @@
+<svg width="268" height="170" viewBox="0 0 268 170" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_dd_1725_23788)">
+<g clip-path="url(#clip0_1725_23788)">
+<rect x="8" y="4" width="252" height="154" rx="3" fill="#F6F7F9"/>
+<text fill="#1C2127" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="24" y="31.2852">Couldn&#x2019;t create the file because the </tspan><tspan x="24" y="52.2852">containing folder doesn&#x2019;t exist </tspan><tspan x="24" y="73.2852">anymore. You will be redirected to </tspan><tspan x="24" y="94.2852">your user folder.</tspan></text>
+<g opacity="0.8">
+<g filter="url(#filter1_d_1725_23788)">
+<rect x="193" y="116" width="51" height="30" rx="3" fill="#EDEFF2"/>
+<text fill="#1C2127" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="14" letter-spacing="0em"><tspan x="203" y="135.785">Okay</tspan></text>
+<rect x="193.5" y="116.5" width="50" height="29" rx="2.5" stroke="#111418" stroke-opacity="0.15"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_1725_23788" x="0" y="0" width="268" height="170" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1725_23788"/>
+<feOffset/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0666667 0 0 0 0 0.0784314 0 0 0 0 0.0941176 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1725_23788"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0666667 0 0 0 0 0.0784314 0 0 0 0 0.0941176 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_1725_23788" result="effect2_dropShadow_1725_23788"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1725_23788" result="shape"/>
+</filter>
+<filter id="filter1_d_1725_23788" x="191" y="115" width="55" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1"/>
+<feGaussianBlur stdDeviation="1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1725_23788"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1725_23788" result="shape"/>
+</filter>
+<clipPath id="clip0_1725_23788">
+<rect x="8" y="4" width="252" height="154" rx="3" fill="white"/>
+</clipPath>
+</defs>
+</svg>
