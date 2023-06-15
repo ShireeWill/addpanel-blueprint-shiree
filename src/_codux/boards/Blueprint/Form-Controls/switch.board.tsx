@@ -22,4 +22,6 @@ export default createBoard({
             </div>
         );
     },
+    tags: ['switch','form','controls'],
+    cover,
 });
