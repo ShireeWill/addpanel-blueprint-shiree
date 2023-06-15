@@ -3,11 +3,11 @@ import { createBoard } from '@wixc3/react-board';
 import { Popover2, Classes } from '@blueprintjs/popover2';
 import { Button, H5 } from '@blueprintjs/core';
 
-
-
+// board cover
+import cover from '../../../../../src/assets/popover/popover.svg';
 
 export default createBoard({
-    name: 'Popover2',
+    name: 'Popover',
     Board: () => (
         <div>
             <Popover2
@@ -29,5 +29,7 @@ export default createBoard({
                 <Button intent='primary' text='Click me!' />
             </Popover2>
         </div>
-    )
+    ),
+    tags: ['popover','primary'],
+    cover,
 });
