@@ -12,6 +12,6 @@ export default createBoard({
     environmentProps: {
         canvasWidth: 500,
     },
-    tags: ['progress', 'bar', 'primary'],
+    tags: ['progress','bar','primary'],
     cover,
 });
