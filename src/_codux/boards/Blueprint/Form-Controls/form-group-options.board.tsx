@@ -4,7 +4,7 @@ import { FormGroup, H5, InputGroup, Intent, Switch } from "@blueprintjs/core";
 import cover from '../../../../assets/form-controls/form-group2.svg';
 
 export default createBoard({
-    name: 'Form Group Options',
+    name: 'Form Group Switches',
     Board: () => {
         return (
             <div>
