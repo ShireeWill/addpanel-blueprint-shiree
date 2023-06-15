@@ -2,6 +2,9 @@ import { useState } from 'react';
 import { createBoard } from '@wixc3/react-board';
 import { Alignment, Classes, Divider, H4, H5, InputGroup, Navbar, Switch, Tab, TabId, Tabs } from "@blueprintjs/core";
 
+// board cover
+import cover from '../../../../assets/tabs/controlled-mode.svg';
+
 export default createBoard({
     name: 'Tabs',
     Board: () => {
@@ -44,5 +47,7 @@ export default createBoard({
                 </Navbar.Group>
             </Navbar>
         )
-    }
+    },
+    tags: ['tabs','controlled'],
+    cover,
 });
