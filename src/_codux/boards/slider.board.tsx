@@ -23,7 +23,4 @@ export default createBoard({
             </div>
         );
     },
-    environmentProps: {
-        canvasWidth: 604,
-    },
 });
