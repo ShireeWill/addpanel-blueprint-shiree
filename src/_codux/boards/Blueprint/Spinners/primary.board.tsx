@@ -8,5 +8,7 @@ import cover from '../../../../../src/assets/spinners/primary.svg';
 export default createBoard({
     name: 'Primary',
     Board: () => 
-        <Spinner intent="primary" size={40}/>
+        <Spinner intent="primary" size={40}/>,
+        tags:['spinner','primary'],
+        cover,
 });

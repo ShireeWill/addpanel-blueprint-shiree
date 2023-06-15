@@ -49,5 +49,5 @@ export default createBoard({
         )
     },
     tags: ['tabs','controlled'],
-    cover,
+    cover
 });
