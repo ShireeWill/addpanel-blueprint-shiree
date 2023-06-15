@@ -1,6 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import React, { useState } from 'react';
-import { H5, Slider, Switch } from "@blueprintjs/core";
+import { H5, Slider, Switch } from '@blueprintjs/core';
 
 export default createBoard({
     name: 'Slider',
@@ -13,8 +13,8 @@ export default createBoard({
                 <Slider
                     min={0}
                     max={1}
-                    stepSize={0.01}
-                    labelStepSize={0.1}
+                    stepSize={0.25}
+                    labelStepSize={0.5}
                     onChange={setValue}
                     labelRenderer={renderLabel}
                     value={value}
@@ -24,6 +24,6 @@ export default createBoard({
         );
     },
     environmentProps: {
-        canvasWidth: 604
-    }
+        canvasWidth: 604,
+    },
 });
