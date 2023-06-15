@@ -1,7 +1,6 @@
 import { createBoard } from '@wixc3/react-board';
 import { Button, H5, Intent, Switch, Tag, Icon } from "@blueprintjs/core";
 
-
 // board cover
 import cover from '../../../../src/assets/tags/tags-with-icon.svg';
 
