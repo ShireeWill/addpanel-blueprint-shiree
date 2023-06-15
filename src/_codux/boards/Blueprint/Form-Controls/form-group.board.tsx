@@ -13,22 +13,12 @@ export default createBoard({
                     intent="none"
                     label={"Label"}
                     labelFor="text-input"
-                    subLabel={"Label helper text with details..."}
                 >
                     <InputGroup id="text-input" placeholder="Placeholder text" intent={'none'} />
-                </FormGroup>
-
-                <FormGroup
-                    disabled={false}
-                    intent="none"
-                    label={"Label"}
-                >
-                    <Switch label="Engage the hyperdrive" disabled={false} />
-                    <Switch label="Initiate thrusters" disabled={false} />
                 </FormGroup>
             </div>
         );
     }
-    tags: ['form', 'group'],
+    tags: ['form', 'group', 'input'],
     cover,
 });
