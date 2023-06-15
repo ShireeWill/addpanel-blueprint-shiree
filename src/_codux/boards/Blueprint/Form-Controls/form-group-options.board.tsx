@@ -1,8 +1,10 @@
 import { createBoard } from '@wixc3/react-board';
 import { FormGroup, H5, InputGroup, Intent, Switch } from "@blueprintjs/core";
+// board cover
+import cover from '../../../../assets/form-controls/form-group1.svg';
 
 export default createBoard({
-    name: 'Form Group',
+    name: 'Form Group Options',
     Board: () => {
         return (
             <div>
@@ -27,4 +29,6 @@ export default createBoard({
             </div>
         );
     }
+    tags: ['form', 'group'],
+    cover,
 });
