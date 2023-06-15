@@ -3,7 +3,7 @@ import React, { useState,useCallback } from 'react';
 import { Alert, Button, H5, Intent, Toaster, ToasterInstance } from "@blueprintjs/core";
 
 // board cover
-import cover from '../../../../assets/alert.svg';
+import cover from '../../../../assets/alert/alert.svg';
 
 export default createBoard({
     name: 'Alert',
